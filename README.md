@@ -11,4 +11,4 @@
 
 <p>网页初步规划</p>
 <p>学习笔记，网站集合，随笔杂谈以及其他有意思的玩意</p>
-
+<img src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimg.huashi6.com%2Fimages%2Fresource%2F2019%2F08%2F16%2F76280h645p0.jpg&refer=http%3A%2F%2Fimg.huashi6.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1616778609&t=61878f789e19f637a0535bff70737b3d"/>

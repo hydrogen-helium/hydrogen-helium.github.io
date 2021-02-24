@@ -11,4 +11,4 @@
 
 <p>网页初步规划</p>
 <p>学习笔记，网站集合，随笔杂谈以及其他有意思的玩意</p>
-<img src="https://i.pximg.net/img-original/img/2011/05/30/00/09/09/19256102_p0.png"/>
+<img src="C:\Users\99381\Desktop\info\githubio.png"/>

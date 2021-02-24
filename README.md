@@ -11,4 +11,4 @@
 
 <p>网页初步规划</p>
 <p>学习笔记，网站集合，随笔杂谈以及其他有意思的玩意</p>
-<img     src="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgs.aixifan.com%2Flive%2F1502352906290%2F1502352906290.jpg&refer=http%3A%2F%2Fimgs.aixifan.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1616775317&t=ba8f108b3e9489a90bd46aa8886e4100"/>
+<imgsrc="https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fimgs.aixifan.com%2Flive%2F1502352906290%2F1502352906290.jpg&refer=http%3A%2F%2Fimgs.aixifan.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1616775317&t=ba8f108b3e9489a90bd46aa8886e4100"/>

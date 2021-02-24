@@ -11,4 +11,4 @@
 
 <p>网页初步规划</p>
 <p>学习笔记，网站集合，随笔杂谈以及其他有意思的玩意</p>
-<img src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=102027742,1614140394&fm=26&gp=0.jpg"/>
+<img src="https://i.pximg.net/img-original/img/2011/05/30/00/09/09/19256102_p0.png"/>
